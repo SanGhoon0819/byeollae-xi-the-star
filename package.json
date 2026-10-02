@@ -1,0 +1,8 @@
+{
+  "name": "presale-master-byeollae",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node master/build.mjs", "check": "node master/check.mjs", "preview": "node master/serve.mjs" }
+}
+

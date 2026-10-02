@@ -1,0 +1,179 @@
+{
+  "overview": [
+    {
+      "kind": "image",
+      "title": "자이 브랜드타운의 완성",
+      "image": "assets/overview.webp"
+    },
+    {
+      "kind": "overview",
+      "title": "사업개요"
+    },
+    {
+      "kind": "image",
+      "title": "별내 중심상업지역, 총 760실",
+      "image": "assets/overview-source.webp"
+    }
+  ],
+  "location": [
+    {
+      "kind": "image",
+      "title": "광역·생활권 입지",
+      "image": "assets/location-map.webp"
+    },
+    {
+      "kind": "image",
+      "title": "별내 생활권",
+      "image": "assets/location-aerial.webp"
+    },
+    {
+      "kind": "image",
+      "title": "별내역 바로 앞 초역세권",
+      "image": "assets/transport-source.webp"
+    },
+    {
+      "kind": "image",
+      "title": "자이 대규모 브랜드타운",
+      "image": "assets/brand-source.webp"
+    },
+    {
+      "kind": "development",
+      "title": "교통·지역 개발계획",
+      "map": "assets/development-map.webp",
+      "rail": "assets/leaflet-location.webp",
+      "gtx": "2031년 개통 예정",
+      "starfield": "2027년 착공 목표 · 개점 시기 미정"
+    }
+  ],
+  "premium": [
+    {
+      "kind": "premium",
+      "title": "PREMIUM 6"
+    },
+    {
+      "kind": "image",
+      "title": "서비스 발코니 면적 · 타입별 특장점",
+      "image": "assets/balcony-source.webp"
+    },
+    {
+      "kind": "table",
+      "title": "풀 퍼니시드 스타일 · 무상 풀옵션",
+      "headers": [
+        "구분",
+        "59·92㎡",
+        "84㎡"
+      ],
+      "rows": [
+        [
+          "냉장고·광파오븐·식기세척기",
+          "기본 제공",
+          "기본 제공"
+        ],
+        [
+          "워시타워·시스클라인·시스템에어컨",
+          "기본 제공",
+          "기본 제공"
+        ],
+        [
+          "스타일러",
+          "기본 제공",
+          "미제공"
+        ],
+        [
+          "현관중문",
+          "기본 제공 (오픈형 제외)",
+          "미제공"
+        ],
+        [
+          "붙박이장",
+          "2개소 (오픈형 제외)",
+          "1개소"
+        ]
+      ]
+    },
+    {
+      "kind": "image",
+      "title": "고급 마감 · 무상 풀옵션",
+      "image": "assets/options-source.webp"
+    },
+    {
+      "kind": "image",
+      "title": "자이 스마트 & 안전 시스템",
+      "image": "assets/smart.webp"
+    },
+    {
+      "kind": "image",
+      "title": "에너지 & 편의 시스템",
+      "image": "assets/energy.webp"
+    },
+    {
+      "kind": "image",
+      "title": "타입별 발코니 서비스 면적",
+      "image": "assets/balcony-all-types.webp"
+    }
+  ],
+  "community": [
+    {
+      "kind": "image",
+      "title": "블록별 커뮤니티",
+      "image": "assets/community.webp"
+    },
+    {
+      "kind": "image",
+      "title": "CLUB XIAN",
+      "image": "assets/community-84.webp"
+    },
+    {
+      "kind": "image",
+      "title": "주거용 커뮤니티 상품개선 (예정)",
+      "image": "assets/community-improvements.webp"
+    }
+  ],
+  "site": [
+    {
+      "kind": "image",
+      "title": "단지배치도",
+      "image": "assets/site-plan.webp"
+    },
+    {
+      "kind": "image",
+      "title": "쾌적한 단지배치",
+      "image": "assets/site-spacing.webp"
+    },
+    {
+      "kind": "image",
+      "title": "동·호수 배치도",
+      "image": "assets/floor-layout.webp"
+    },
+    {
+      "kind": "gallery",
+      "title": "동별 배치와 출입구",
+      "items": [
+        {
+          "image": "assets/block-301.webp",
+          "title": "301동 배치"
+        },
+        {
+          "image": "assets/block-302.webp",
+          "title": "302동 배치"
+        },
+        {
+          "image": "assets/block-303.webp",
+          "title": "303동 배치"
+        },
+        {
+          "image": "assets/block-401.webp",
+          "title": "401동 배치"
+        },
+        {
+          "image": "assets/block-402.webp",
+          "title": "402동 배치"
+        },
+        {
+          "image": "assets/block-501.webp",
+          "title": "501동 배치"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+window.SITE_CONFIG = {"name":"별내자이 더 스타 이그제큐티브","phone":"1877-2027","contact":{"endpoint":"","ga4Id":"","operator":"이상훈","email":"realestateinfo@naver.com","retention":"동의일로부터 1년","cta":"문의하기","interestType":false,"visitDate":false},"popup":{"enabled":false,"id":"notice-v1","title":"","body":"","cta":"상담 신청하기"},"modules":{"hero":true,"facts":true,"overview":true,"location":true,"premium":true,"plans":true,"terms":false,"more":true,"faq":true,"contact":true}};
+

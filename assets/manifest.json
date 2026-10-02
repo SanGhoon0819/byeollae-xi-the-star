@@ -1,0 +1,1090 @@
+{
+  "hero": {
+    "file": "assets/hero.webp",
+    "width": 1746,
+    "height": 1175,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 9,
+    "crop": [
+      0.242,
+      0.073,
+      1,
+      0.98
+    ]
+  },
+  "brand-town": {
+    "file": "assets/brand-town.webp",
+    "width": 1746,
+    "height": 1175,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 10,
+    "crop": [
+      0.242,
+      0.073,
+      1,
+      0.98
+    ]
+  },
+  "overview": {
+    "file": "assets/overview.webp",
+    "width": 1800,
+    "height": 1246,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 17,
+    "crop": null
+  },
+  "location-map": {
+    "file": "assets/location-map.webp",
+    "width": 1800,
+    "height": 1164,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 8,
+    "crop": [
+      0.005,
+      0.005,
+      0.995,
+      0.93
+    ]
+  },
+  "transport": {
+    "file": "assets/transport.webp",
+    "width": 999,
+    "height": 850,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 12,
+    "crop": [
+      0.018,
+      0.28,
+      0.552,
+      0.936
+    ]
+  },
+  "lifestyle": {
+    "file": "assets/lifestyle.webp",
+    "width": 1728,
+    "height": 1115,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 4,
+    "crop": [
+      0.245,
+      0.105,
+      0.995,
+      0.965
+    ]
+  },
+  "operation": {
+    "file": "assets/operation.webp",
+    "width": 1728,
+    "height": 1115,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 5,
+    "crop": [
+      0.245,
+      0.105,
+      0.995,
+      0.965
+    ]
+  },
+  "site-plan": {
+    "file": "assets/site-plan.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 33,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "floor-layout": {
+    "file": "assets/floor-layout.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 34,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "community-84": {
+    "file": "assets/community-84.webp",
+    "width": 1728,
+    "height": 1134,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 15,
+    "crop": [
+      0.245,
+      0.09,
+      0.995,
+      0.965
+    ]
+  },
+  "smart": {
+    "file": "assets/smart.webp",
+    "width": 1716,
+    "height": 1160,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 16,
+    "crop": [
+      0.25,
+      0.085,
+      0.995,
+      0.98
+    ]
+  },
+  "energy": {
+    "file": "assets/energy.webp",
+    "width": 1716,
+    "height": 1160,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 17,
+    "crop": [
+      0.25,
+      0.085,
+      0.995,
+      0.98
+    ]
+  },
+  "location-aerial": {
+    "file": "assets/location-aerial.webp",
+    "width": 1800,
+    "height": 1163,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 7,
+    "crop": [
+      0.015,
+      0.015,
+      0.985,
+      0.92
+    ]
+  },
+  "location-regional": {
+    "file": "assets/location-regional.webp",
+    "width": 1800,
+    "height": 1169,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 8,
+    "crop": [
+      0.015,
+      0.02,
+      0.985,
+      0.93
+    ]
+  },
+  "block-layout": {
+    "file": "assets/block-layout.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 66,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-301": {
+    "file": "assets/block-301.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 60,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-302": {
+    "file": "assets/block-302.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 61,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-303": {
+    "file": "assets/block-303.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 62,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-401": {
+    "file": "assets/block-401.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 63,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-402": {
+    "file": "assets/block-402.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 64,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "block-501": {
+    "file": "assets/block-501.webp",
+    "width": 1728,
+    "height": 1166,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 65,
+    "crop": [
+      0.245,
+      0.08,
+      0.995,
+      0.98
+    ]
+  },
+  "plan-3-92A": {
+    "file": "assets/plan-3-92A.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 18,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92A": {
+    "file": "assets/sheet-3-92A.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 18,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92B": {
+    "file": "assets/plan-3-92B.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 19,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92B": {
+    "file": "assets/sheet-3-92B.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 19,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92B-1": {
+    "file": "assets/plan-3-92B-1.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 20,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92B-1": {
+    "file": "assets/sheet-3-92B-1.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 20,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92C": {
+    "file": "assets/plan-3-92C.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 21,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92C": {
+    "file": "assets/sheet-3-92C.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 21,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92C-1": {
+    "file": "assets/plan-3-92C-1.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 22,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92C-1": {
+    "file": "assets/sheet-3-92C-1.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 22,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92A-H": {
+    "file": "assets/plan-3-92A-H.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 23,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92A-H": {
+    "file": "assets/sheet-3-92A-H.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 23,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92C-H": {
+    "file": "assets/plan-3-92C-H.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 24,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92C-H": {
+    "file": "assets/sheet-3-92C-H.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 24,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-92C-1-H": {
+    "file": "assets/plan-3-92C-1-H.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 25,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-92C-1-H": {
+    "file": "assets/sheet-3-92C-1-H.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 25,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-4-92A": {
+    "file": "assets/plan-4-92A.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 26,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-4-92A": {
+    "file": "assets/sheet-4-92A.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 26,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-4-92D": {
+    "file": "assets/plan-4-92D.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 27,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-4-92D": {
+    "file": "assets/sheet-4-92D.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 27,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-4-92E": {
+    "file": "assets/plan-4-92E.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 28,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-4-92E": {
+    "file": "assets/sheet-4-92E.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 28,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-4-92E-1": {
+    "file": "assets/plan-4-92E-1.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 29,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-4-92E-1": {
+    "file": "assets/sheet-4-92E-1.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 29,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-4-92E-H": {
+    "file": "assets/plan-4-92E-H.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 30,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-4-92E-H": {
+    "file": "assets/sheet-4-92E-H.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 30,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-5-59A": {
+    "file": "assets/plan-5-59A.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 31,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-5-59A": {
+    "file": "assets/sheet-5-59A.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 31,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-5-59B": {
+    "file": "assets/plan-5-59B.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 32,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-5-59B": {
+    "file": "assets/sheet-5-59B.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 32,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-5-59C": {
+    "file": "assets/plan-5-59C.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 33,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-5-59C": {
+    "file": "assets/sheet-5-59C.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 33,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-5-59C-1": {
+    "file": "assets/plan-5-59C-1.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 34,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-5-59C-1": {
+    "file": "assets/sheet-5-59C-1.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 34,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-5-59B-H": {
+    "file": "assets/plan-5-59B-H.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 35,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-5-59B-H": {
+    "file": "assets/sheet-5-59B-H.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 35,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-84A": {
+    "file": "assets/plan-3-84A.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 36,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-84A": {
+    "file": "assets/sheet-3-84A.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 36,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-84B": {
+    "file": "assets/plan-3-84B.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 37,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-84B": {
+    "file": "assets/sheet-3-84B.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 37,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "plan-3-84C": {
+    "file": "assets/plan-3-84C.webp",
+    "width": 1105,
+    "height": 817,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 38,
+    "crop": [
+      0.505,
+      0.335,
+      0.985,
+      0.965
+    ]
+  },
+  "sheet-3-84C": {
+    "file": "assets/sheet-3-84C.webp",
+    "width": 1647,
+    "height": 998,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 38,
+    "crop": [
+      0.27,
+      0.195,
+      0.985,
+      0.965
+    ]
+  },
+  "xi-logo": {
+    "file": "assets/xi-logo.webp",
+    "width": 240,
+    "height": 133,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.097,
+      0.078,
+      0.155,
+      0.124
+    ]
+  },
+  "community": {
+    "file": "assets/community.webp",
+    "width": 1100,
+    "height": 1422,
+    "source": "KakaoTalk_20260929_172243232.webp",
+    "page": null
+  },
+  "hero-watercolor": {
+    "file": "assets/hero-watercolor.webp",
+    "width": 1436,
+    "height": 1532,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 7,
+    "crop": [
+      0.598,
+      0.22,
+      0.972,
+      0.929
+    ]
+  },
+  "premium-1": {
+    "file": "assets/premium-1.webp",
+    "width": 463,
+    "height": 242,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.026,
+      0.749,
+      0.088,
+      0.7955
+    ]
+  },
+  "premium-2": {
+    "file": "assets/premium-2.webp",
+    "width": 459,
+    "height": 242,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.0945,
+      0.749,
+      0.156,
+      0.7955
+    ]
+  },
+  "premium-3": {
+    "file": "assets/premium-3.webp",
+    "width": 455,
+    "height": 242,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.163,
+      0.749,
+      0.224,
+      0.7955
+    ]
+  },
+  "premium-4": {
+    "file": "assets/premium-4.webp",
+    "width": 463,
+    "height": 234,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.026,
+      0.8865,
+      0.088,
+      0.9315
+    ]
+  },
+  "premium-5": {
+    "file": "assets/premium-5.webp",
+    "width": 459,
+    "height": 234,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.0945,
+      0.8865,
+      0.156,
+      0.9315
+    ]
+  },
+  "premium-6": {
+    "file": "assets/premium-6.webp",
+    "width": 455,
+    "height": 234,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 1,
+    "crop": [
+      0.163,
+      0.8865,
+      0.224,
+      0.9315
+    ]
+  },
+  "hero-watercolor-wide": {
+    "file": "assets/hero-watercolor-wide.webp",
+    "width": 2600,
+    "height": 1253,
+    "source": "별내자이브리핑북ver6(단지배치추가)68p.pdf",
+    "page": 1,
+    "crop": [
+      0.065,
+      0.02,
+      0.975,
+      0.8
+    ]
+  },
+  "overview-source": {
+    "file": "assets/overview-source.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 6,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "transport-source": {
+    "file": "assets/transport-source.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 12,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "brand-source": {
+    "file": "assets/brand-source.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 13,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "balcony-source": {
+    "file": "assets/balcony-source.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 19,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "options-source": {
+    "file": "assets/options-source.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 20,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "community-improvements": {
+    "file": "assets/community-improvements.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 22,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "site-spacing": {
+    "file": "assets/site-spacing.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 18,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "balcony-all-types": {
+    "file": "assets/balcony-all-types.webp",
+    "width": 2600,
+    "height": 1741,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 35,
+    "crop": [
+      0,
+      0,
+      1,
+      0.967
+    ]
+  },
+  "development-map": {
+    "file": "assets/development-map.webp",
+    "width": 890,
+    "height": 1162,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 14,
+    "crop": [
+      0.022,
+      0.328,
+      0.348,
+      0.943
+    ]
+  },
+  "gtx-map": {
+    "file": "assets/gtx-map.webp",
+    "width": 819,
+    "height": 675,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 14,
+    "crop": [
+      0.364,
+      0.328,
+      0.664,
+      0.685
+    ]
+  },
+  "parking-source": {
+    "file": "assets/parking-source.webp",
+    "width": 827,
+    "height": 1243,
+    "source": "260821_별내자이 더 스타 이그제큐티브 교육자료_V2.pdf",
+    "page": 14,
+    "crop": [
+      0.672,
+      0.285,
+      0.975,
+      0.943
+    ]
+  },
+  "leaflet-location": {
+    "file": "assets/leaflet-location.webp",
+    "width": 3000,
+    "height": 2091,
+    "source": "0820 별내자이 지도전단.pdf",
+    "page": 2
+  }
+}

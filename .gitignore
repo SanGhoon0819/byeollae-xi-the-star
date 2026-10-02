@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.env
+미리보기-*.png
+검수/
+
+자료분석.md
+2차수정-확인기록.md
+
