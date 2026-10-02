@@ -1,3 +1,9 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /content/
+Disallow: /master/
+Allow: /master/styles.css
+Allow: /master/app.js
+Disallow: /backend/
+Sitemap: https://xithestar.kr/sitemap.xml
 
